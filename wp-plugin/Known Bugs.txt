@@ -1,0 +1,15 @@
+Known Bugs:
+
+List Display:
+	sorting reverts to defaults list
+	sorting doesn't properly work on price
+
+
+
+Things that need to be tested:
+
+List Display:
+	Do multiple pages work? or does it get messed up with the default list?
+	Individual item deletion
+	Multiple Item Deletion
+	
